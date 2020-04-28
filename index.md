@@ -4,7 +4,7 @@
 每当您提交到该存储库时，GitHub Pages都将运行[Jekyll]（https://jekyllrb.com/）从Markdown文件中的内容重建站点中的页面。
 
 ### 目录
-  1. [H5](https://www.w3school.com.cn/html/index.asp/)
+  1. [H5](https://www.w3school.com.cn/html/index.asp)
   2. [CSS3](/Css.html)
   3. JavaScript
   4. React
