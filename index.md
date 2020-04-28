@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages!
 
 您可以使用[GitHub上的编辑器]（https://github.com/NMF-Mengfei/NMF-Mengfei.github.io/edit/master/index.md）维护和预览Markdown文件中网站的内容。
 每当您提交到该存储库时，GitHub Pages都将运行[Jekyll]（https://jekyllrb.com/）从Markdown文件中的内容重建站点中的页面。
