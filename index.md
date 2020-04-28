@@ -6,7 +6,7 @@
 ### 目录
   1. [H5](https://www.w3school.com.cn/html/index.asp/)
   2. [CSS3](/index.html)
-  3. <a href="/index-en.html">JavaScript</a>
+  3. <a href="/index.html">JavaScript</a>
   4. React
   5. HTTPS
 
