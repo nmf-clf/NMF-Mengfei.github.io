@@ -1,37 +1,37 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/NMF-Mengfei/NMF-Mengfei.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+您可以使用[GitHub上的编辑器]（https://github.com/NMF-Mengfei/NMF-Mengfei.github.io/edit/master/index.md）维护和预览Markdown文件中网站的内容。
+每当您提交到该存储库时，GitHub Pages都将运行[Jekyll]（https://jekyllrb.com/）从Markdown文件中的内容重建站点中的页面。
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown是一种轻巧且易于使用的语法，可用于样式化文字。它包括以下约定
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 标题 1
+## 标题 2
+### 标题 3
 
-- Bulleted
-- List
+- 项目符号
+- 清单
 
-1. Numbered
-2. List
+1. 编号
+2. 清单
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+有关更多详情信息,请参见 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Jekyll 主题
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NMF-Mengfei/NMF-Mengfei.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+您的Pages网站将使用您在[存储库设置] [repository settings](https://github.com/NMF-Mengfei/NMF-Mengfei.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 支持或联系
+
+Pages有问题吗? 请查看我们的 [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) 并且我们将帮助您对其排序出来.
